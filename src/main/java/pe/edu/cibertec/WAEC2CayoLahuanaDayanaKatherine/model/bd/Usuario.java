@@ -1,4 +1,4 @@
-package pe.edu.cibertec.WAEC2CayoLahuanaDayanaKatherine.model.db;
+package pe.edu.cibertec.WAEC2CayoLahuanaDayanaKatherine.model.bd;
 
 import jakarta.persistence.*;
 import lombok.Data;
